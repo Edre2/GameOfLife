@@ -30,3 +30,8 @@ In the `Visual.cpp`, you have the following options :
 - Clicking with the mouse : change a cell
 
 In `main.cpp`, there is a basic implemetation of the `GameOfLife` class.
+
+# License
+
+The `olcPixelGameEngine` is published under the `OLC-3` license (see in the file itself). \
+The rest of the code is published under the `GPL v3`.
